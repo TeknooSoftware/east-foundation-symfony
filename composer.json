@@ -1,0 +1,22 @@
+{
+    "name": "teknoo/east-foundation-symfony",
+    "description": "Metapackage to install Teknoo East Foundation in Symfony",
+    "type": "metapackage",
+    "require": {
+            "roave/security-advisories": "dev-master",
+            "teknoo/east-foundation": "^3.0.4",
+            "symfony/config": "~4.4||~5.1",
+            "symfony/console": "~4.4||~5.1",
+            "symfony/dependency-injection": "~4.4||~5.1",
+            "symfony/http-kernel": "~4.4||~5.1",
+            "symfony/http-foundation": "~4.4||~5.1",
+            "symfony/psr-http-message-bridge":"~1.3||~2.0",
+            "symfony/routing": "~4.4||~5.1",
+            "symfony/security-core": "~4.4||~5.1",
+            "symfony/serializer": "~4.4||~5.1",
+            "symfony/yaml": "~4.4||~5.1",
+            "teknoo/bridge-phpdi-symfony": "^4.0.0",
+            "laminas/laminas-diactoros": "~2.2"
+    }
+}
+ 
