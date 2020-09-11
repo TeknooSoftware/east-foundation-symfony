@@ -13,7 +13,7 @@
       }
     ],
     "require": {
-            "teknoo/east-foundation": "^3.0.4",
+            "teknoo/east-foundation": "^3.1.0",
             "symfony/config": "~4.4||~5.1",
             "symfony/console": "~4.4||~5.1",
             "symfony/dependency-injection": "~4.4||~5.1",
@@ -24,7 +24,7 @@
             "symfony/security-core": "~4.4||~5.1",
             "symfony/serializer": "~4.4||~5.1",
             "symfony/yaml": "~4.4||~5.1",
-            "teknoo/bridge-phpdi-symfony": "^4.0.0",
+            "teknoo/bridge-phpdi-symfony": "^4.0.1",
             "laminas/laminas-diactoros": "~2.2"
     },
     "require-dev": {
