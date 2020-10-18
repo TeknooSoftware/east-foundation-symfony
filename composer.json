@@ -13,7 +13,7 @@
       }
     ],
     "require": {
-        "teknoo/east-foundation": "^3.2.1",
+        "teknoo/east-foundation": "^3.2.2",
         "symfony/config": "~4.4||~5.1",
         "symfony/console": "~4.4||~5.1",
         "symfony/dependency-injection": "~4.4||~5.1",
