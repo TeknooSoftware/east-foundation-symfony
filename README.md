@@ -1,4 +1,4 @@
-Teknoo Software - Website library
+Teknoo Software - East Foundation
 =================================
 
 Metapackage to install [Teknoo East Foundation](https://github.com/TeknooSoftware/east-foundation) with Symfony.
