@@ -12,6 +12,16 @@
         "role":"Software architect, Lead developer"
       }
     ],
+    "support": {
+        "issues": "https://github.com/TeknooSoftware/east-foundation-symfony/issues",
+        "source": "https://github.com/TeknooSoftware/east-foundation-symfony"
+    },
+    "funding": [
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/teknoo_software"
+        }
+    ],
     "require": {
         "teknoo/east-foundation": "^3.2.2",
         "symfony/config": "~4.4||~5.1",
