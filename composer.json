@@ -39,6 +39,17 @@
     },
     "require-dev": {
       "roave/security-advisories": "dev-master"
+    },
+    "extra": {
+        "teknoo/composer-install": {
+            "Symfony\\Bundle": {
+                "Teknoo\\DI\\SymfonyBridge\\DIBridgeBundle": ["all"],
+                "Teknoo\\East\\FoundationBundle\\EastFoundationBundle": ["all"]
+            },
+            "files": {
+                "/config/packages/east_foundation.yaml": "foo bar"
+            }
+        }
     }
 }
  
