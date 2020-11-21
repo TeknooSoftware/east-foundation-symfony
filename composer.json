@@ -43,8 +43,8 @@
     "extra": {
         "Teknoo\\Composer\\Installer": {
             "Teknoo\\Composer\\Action\\SymfonyBundle": {
-                "Teknoo\\DI\\SymfonyBridge\\DIBridgeBundle": ["all"],
-                "Teknoo\\East\\FoundationBundle\\EastFoundationBundle": ["all"]
+                "Teknoo\\DI\\SymfonyBridge\\DIBridgeBundle": {"all":  true},
+                "Teknoo\\East\\FoundationBundle\\EastFoundationBundle": {"all": true }
             },
             "Teknoo\\Composer\\Action\\SymfonyConfig": {
                 "east_foundation.yaml": [
