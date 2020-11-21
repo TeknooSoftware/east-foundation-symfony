@@ -49,7 +49,7 @@
             "Teknoo\\Composer\\Action\\SymfonyConfig": {
                 "east_foundation.yaml": [
                     "# Read the documentation:",
-                    "# Foo2",
+                    "# Foo3",
                     "di_bridge:",
                     "  definitions:",
                     "    - '%kernel.project_dir%/vendor/teknoo/east-foundation/src/di.php'",
