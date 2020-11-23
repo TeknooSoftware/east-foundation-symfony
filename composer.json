@@ -24,6 +24,8 @@
     ],
     "require": {
         "teknoo/east-foundation": "^3.2.2",
+        "teknoo/bridge-phpdi-symfony": "^4.0.3",
+        "teknoo/composer-install": "dev-master",
         "symfony/config": "~4.4||~5.1",
         "symfony/console": "~4.4||~5.1",
         "symfony/dependency-injection": "~4.4||~5.1",
@@ -34,7 +36,6 @@
         "symfony/security-core": "~4.4||~5.1",
         "symfony/serializer": "~4.4||~5.1",
         "symfony/yaml": "~4.4||~5.1",
-        "teknoo/bridge-phpdi-symfony": "^4.0.3",
         "laminas/laminas-diactoros": "~2.2"
     },
     "require-dev": {
@@ -50,12 +51,12 @@
                 "east_foundation.yaml": [
                     "# Read the documentation:",
                     "di_bridge:",
-                    "  definitions:",
-                    "    - '%kernel.project_dir%/vendor/teknoo/east-foundation/src/di.php'",
-                    "    - '%kernel.project_dir%/vendor/teknoo/east-foundation/infrastructures/symfony/Resources/config/di.php'",
-                    "    - '%kernel.project_dir%/vendor/teknoo/east-foundation/infrastructures/symfony/Resources/config/laminas_di.php'",
-                    "  import:",
-                    "    Psr\\Log\\LoggerInterface: 'logger'"
+                    "    definitions:",
+                    "        - '%kernel.project_dir%/vendor/teknoo/east-foundation/src/di.php'",
+                    "        - '%kernel.project_dir%/vendor/teknoo/east-foundation/infrastructures/symfony/Resources/config/di.php'",
+                    "        - '%kernel.project_dir%/vendor/teknoo/east-foundation/infrastructures/symfony/Resources/config/laminas_di.php'",
+                    "    import:",
+                    "        Psr\\Log\\LoggerInterface: 'logger'"
                 ]
             }
         }
