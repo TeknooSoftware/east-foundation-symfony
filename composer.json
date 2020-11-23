@@ -47,7 +47,7 @@
                 "Teknoo\\DI\\SymfonyBridge\\DIBridgeBundle": {"all":  true},
                 "Teknoo\\East\\FoundationBundle\\EastFoundationBundle": {"all": true }
             },
-            "Teknoo\\Composer\\Action\\SymfonyConfig": {
+            "Teknoo\\Composer\\Action\\SymfonyPackages": {
                 "east_foundation.yaml": [
                     "# Read the documentation:",
                     "di_bridge:",
