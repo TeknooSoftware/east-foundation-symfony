@@ -3,6 +3,22 @@ Teknoo Software - East Foundation
 
 Metapackage to install [Teknoo East Foundation](https://github.com/TeknooSoftware/east-foundation) with Symfony.
 
+Installation & Requirements
+---------------------------
+To install this library with composer, run these commands :
+
+    composer require teknoo/composer-install
+    composer require teknoo/east-foundation-symfony  
+
+This library requires :
+
+    * PHP 7.4+
+    * A PHP autoloader (Composer is recommended)
+    * Teknoo/Immutable.
+    * Teknoo/States.
+    * Teknoo/Recipe.
+    * Optional: Symfony 4.4+
+
 Support this project
 ---------------------
 
