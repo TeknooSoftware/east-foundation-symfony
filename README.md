@@ -12,12 +12,12 @@ To install this library with composer, run these commands :
 
 This library requires :
 
-    * PHP 7.4+
+    * PHP 8.0+
     * A PHP autoloader (Composer is recommended)
     * Teknoo/Immutable.
     * Teknoo/States.
     * Teknoo/Recipe.
-    * Optional: Symfony 4.4+
+    * Optional: Symfony 5.2+
 
 Support this project
 ---------------------
@@ -40,8 +40,3 @@ Teknoo Software's goals : Provide to our partners and to the community a set of 
 License
 -------
 East Website is licensed under the MIT License - see the licenses folder for details
-
-Contribute :)
--------------
-
-You are welcome to contribute to this project. [Fork it on Github](CONTRIBUTING.md)
