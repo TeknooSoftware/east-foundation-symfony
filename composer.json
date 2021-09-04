@@ -40,7 +40,7 @@
         "symfony/yaml": "~5.3",
         "teknoo/bridge-phpdi-symfony": "^5.0.2",
         "teknoo/composer-install": "^0.0.14",
-        "teknoo/east-foundation": "^5.3.3"
+        "teknoo/east-foundation": "^5.3.5"
     },
     "require-dev": {
       "roave/security-advisories": "dev-master"
