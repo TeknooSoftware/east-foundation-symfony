@@ -27,7 +27,7 @@
         }
     ],
     "require": {
-        "laminas/laminas-diactoros": "~2.5",
+        "laminas/laminas-diactoros": "~2.8",
         "symfony/config": "~5.3",
         "symfony/console": "~5.3",
         "symfony/dependency-injection": "~5.3",
@@ -38,7 +38,7 @@
         "symfony/security-core": "~5.3",
         "symfony/serializer": "~5.3",
         "symfony/yaml": "~5.3",
-        "teknoo/bridge-phpdi-symfony": "^5.0.2",
+        "teknoo/bridge-phpdi-symfony": "^5.0.4",
         "teknoo/composer-install": "^0.0.14",
         "teknoo/east-foundation": "^5.3.5"
     },
