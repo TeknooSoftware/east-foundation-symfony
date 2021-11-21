@@ -39,8 +39,8 @@
         "symfony/serializer": "~5.3",
         "symfony/yaml": "~5.3",
         "teknoo/bridge-phpdi-symfony": "^5.0.4",
-        "teknoo/composer-install": "^0.0.14",
-        "teknoo/east-foundation": "^5.3.5"
+        "teknoo/composer-install": "^0.0.16",
+        "teknoo/east-foundation": "^5.3.7"
     },
     "require-dev": {
       "roave/security-advisories": "dev-master"
