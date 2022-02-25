@@ -48,22 +48,10 @@
       "roave/security-advisories": "dev-master"
     },
     "extra": {
-        "Teknoo\\Composer\\Installer": {
-            "Teknoo\\Composer\\Action\\SymfonyBundle": {
-                "Teknoo\\DI\\SymfonyBridge\\DIBridgeBundle": {"all":  true},
-                "Teknoo\\East\\FoundationBundle\\EastFoundationBundle": {"all": true }
-            },
-            "Teknoo\\Composer\\Action\\SymfonyPackages": {
-                "east_foundation.yaml": [
-                    "di_bridge:",
-                    "    definitions:",
-                    "        - '%kernel.project_dir%/vendor/teknoo/east-foundation/src/di.php'",
-                    "        - '%kernel.project_dir%/vendor/teknoo/east-foundation/infrastructures/symfony/Resources/config/di.php'",
-                    "        - '%kernel.project_dir%/vendor/teknoo/east-foundation/infrastructures/symfony/Resources/config/laminas_di.php'",
-                    "    import:",
-                    "        Psr\\Log\\LoggerInterface: 'logger'"
-                ]
-            }
+        "symfony" : {
+            "endpoint": [
+                "https://api.github.com/repos/TeknooSoftware/symfony-recipes/contents/index.json"
+            ]
         }
     },
     "config": {
