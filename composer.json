@@ -50,13 +50,9 @@
     "extra": {
         "symfony" : {
             "endpoint": [
-                "https://api.github.com/repos/TeknooSoftware/symfony-recipes/contents/index.json"
+                "https://api.github.com/repos/TeknooSoftware/symfony-recipes/contents/index.json",
+                "flex://defaults"
             ]
-        }
-    },
-    "config": {
-        "allow-plugins": {
-            "teknoo/composer-install": true
         }
     }
 }
