@@ -7,8 +7,10 @@ Installation & Requirements
 ---------------------------
 To install this library with composer, run these commands :
 
-    composer require teknoo/composer-install
-    composer require teknoo/east-foundation-symfony  
+* Add in your composer.json the entry `https://api.github.com/repos/TeknooSoftware/symfony-recipes/contents/index.json` 
+ to the list `extra.symfony.endpoint` and set to `true` the entry `extra.symfony.allow-contrib`.
+* If the `extra.symfony.endpoint` is not already defined, you must also add `flex://defaults` to avoid errors.
+* Run this command `composer require teknoo/east-foundation-symfony`
 
 This library requires :
 
