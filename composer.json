@@ -39,10 +39,10 @@
         "symfony/serializer": "^6.0",
         "symfony/yaml": "^6.0",
         "teknoo/bridge-phpdi-symfony": "^5.0.7",
-        "teknoo/immutable": "^3.0",
-        "teknoo/states": "^6.0",
-        "teknoo/recipe": "^4.0.1",
-        "teknoo/east-foundation": "^6.0.1"
+        "teknoo/immutable": "^3.0.1",
+        "teknoo/states": "^6.0.1",
+        "teknoo/recipe": "^4.1.1",
+        "teknoo/east-foundation": "^6.0.2"
     },
     "require-dev": {
       "roave/security-advisories": "dev-master"
