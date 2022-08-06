@@ -3,7 +3,7 @@
     "type": "metapackage",
     "description": "Metapackage to install Teknoo East Foundation in Symfony : East Foundation is a universal package to implement the #east philosophy ( http://blog.est.voyage/phpTour2015/ ) with any framework supporting PSR-11 or with Symfony 4+.",
     "keywords": ["east", "controller", "design"],
-    "homepage": "http://teknoo.software/east-framework",
+    "homepage": "http://teknoo.software/east-foundation",
     "license": ["MIT"],
     "authors": [
       {
@@ -42,7 +42,7 @@
         "teknoo/immutable": "^3.0.1",
         "teknoo/states": "^6.0.7",
         "teknoo/recipe": "^4.1.4",
-        "teknoo/east-foundation": "^6.0.6"
+        "teknoo/east-foundation": "^6.0.7"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"
