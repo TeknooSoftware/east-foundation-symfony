@@ -9,7 +9,7 @@
       {
         "name": "Richard Déloge",
         "email": "richard@teknoo.software",
-        "role":"Software architect, Lead developer"
+        "role": "Software architect, Lead developer"
       }
     ],
     "support": {
@@ -28,21 +28,21 @@
     ],
     "require": {
         "laminas/laminas-diactoros": "^2.11",
-        "symfony/config": "^6.1",
-        "symfony/console": "^6.1",
-        "symfony/dependency-injection": "^6.1",
-        "symfony/http-kernel": "^6.1",
-        "symfony/http-foundation": "^6.1",
+        "symfony/config": "^6.2",
+        "symfony/console": "^6.2",
+        "symfony/dependency-injection": "^6.2",
+        "symfony/http-kernel": "^6.2",
+        "symfony/http-foundation": "^6.2",
         "symfony/psr-http-message-bridge":"^2.1",
-        "symfony/routing": "^6.1",
-        "symfony/security-core": "^6.1",
-        "symfony/serializer": "^6.1",
-        "symfony/yaml": "^6.1",
-        "teknoo/bridge-phpdi-symfony": "^5.2.4",
-        "teknoo/immutable": "^3.0.15",
-        "teknoo/states": "^6.0.18",
-        "teknoo/recipe": "^4.2.6",
-        "teknoo/east-foundation": "^6.2.9"
+        "symfony/routing": "^6.2",
+        "symfony/security-core": "^6.2",
+        "symfony/serializer": "^6.2",
+        "symfony/yaml": "^6.2",
+        "teknoo/bridge-phpdi-symfony": "^5.2.5",
+        "teknoo/immutable": "^3.0.16",
+        "teknoo/states": "^6.0.19",
+        "teknoo/recipe": "^4.2.7",
+        "teknoo/east-foundation": "^6.2.10"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"

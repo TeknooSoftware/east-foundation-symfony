@@ -30,8 +30,8 @@ Thanks :) Richard.
 
 Credits
 -------
-Richard Déloge - <richard@teknoo.software> - Lead developer.
-Teknoo Software - <https://teknoo.software>
+Richard Déloge - <https://deloge.io> - Lead developer.
+Teknoo Software - <https://teknoo.software> - a subsidiary of EIRL Richard DELOGE
 
 About Teknoo Software
 ---------------------
