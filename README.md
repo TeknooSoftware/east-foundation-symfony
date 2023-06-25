@@ -24,7 +24,7 @@ sharing knowledge and skills.
 
 License
 -------
-Space is licensed under the MIT License - see the licenses folder for details.
+East Foundation is licensed under the MIT License - see the licenses folder for details.
 
 Installation & Requirements
 ---------------------------
@@ -42,4 +42,4 @@ This library requires :
     * Teknoo/Immutable.
     * Teknoo/States.
     * Teknoo/Recipe.
-    * Optional: Symfony 6.0+
+    * Optional: Symfony 6.3+
