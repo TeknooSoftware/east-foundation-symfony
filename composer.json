@@ -38,11 +38,11 @@
         "symfony/security-core": "^6.3",
         "symfony/serializer": "^6.3",
         "symfony/yaml": "^6.3",
-        "teknoo/bridge-phpdi-symfony": "^6.0.0-beta1",
+        "teknoo/bridge-phpdi-symfony": "^6.0.0",
         "teknoo/immutable": "^3.0.16",
         "teknoo/states": "^6.1.1",
         "teknoo/recipe": "^4.2.8",
-        "teknoo/east-foundation": "^7.0.0-beta1"
+        "teknoo/east-foundation": "^7.0.0"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"
