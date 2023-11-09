@@ -41,8 +41,8 @@
         "teknoo/bridge-phpdi-symfony": "^6.0.1",
         "teknoo/immutable": "^3.0.16",
         "teknoo/states": "^6.1.2",
-        "teknoo/recipe": "^4.5.0",
-        "teknoo/east-foundation": "^7.3.2"
+        "teknoo/recipe": "^4.5.1",
+        "teknoo/east-foundation": "^7.3.3"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"
