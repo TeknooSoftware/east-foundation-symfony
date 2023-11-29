@@ -27,22 +27,22 @@
         }
     ],
     "require": {
-        "laminas/laminas-diactoros": "^3.0",
-        "symfony/config": "^6.3",
-        "symfony/console": "^6.3",
-        "symfony/dependency-injection": "^6.3",
-        "symfony/http-kernel": "^6.3",
-        "symfony/http-foundation": "^6.3",
-        "symfony/psr-http-message-bridge":"^2.2",
-        "symfony/routing": "^6.3",
-        "symfony/security-core": "^6.3",
-        "symfony/serializer": "^6.3",
-        "symfony/yaml": "^6.3",
-        "teknoo/bridge-phpdi-symfony": "^6.0.1",
-        "teknoo/immutable": "^3.0.16",
-        "teknoo/states": "^6.1.2",
-        "teknoo/recipe": "^4.5.1",
-        "teknoo/east-foundation": "^7.3.3"
+        "laminas/laminas-diactoros": "^3.3",
+        "symfony/config": "^6.3||^7.0",
+        "symfony/console": "^6.3||^7.0",
+        "symfony/dependency-injection": "^6.3||^7.0",
+        "symfony/http-kernel": "^6.3||^7.0",
+        "symfony/http-foundation": "^6.3||^7.0",
+        "symfony/psr-http-message-bridge":"^2.3",
+        "symfony/routing": "^6.3||^7.0",
+        "symfony/security-core": "^6.3||^7.0",
+        "symfony/serializer": "^6.3||^7.0",
+        "symfony/yaml": "^6.3||^7.0",
+        "teknoo/bridge-phpdi-symfony": "^6.0.2",
+        "teknoo/immutable": "^3.0.17",
+        "teknoo/states": "^6.1.5",
+        "teknoo/recipe": "^4.5.2",
+        "teknoo/east-foundation": "^7.3.4"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"
