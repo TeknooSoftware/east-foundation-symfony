@@ -33,7 +33,7 @@
         "symfony/dependency-injection": "^6.3||^7.0",
         "symfony/http-kernel": "^6.3||^7.0",
         "symfony/http-foundation": "^6.3||^7.0",
-        "symfony/psr-http-message-bridge":"^2.3",
+        "symfony/psr-http-message-bridge": "^2.3.1||^6.4||^7.0",
         "symfony/routing": "^6.3||^7.0",
         "symfony/security-core": "^6.3||^7.0",
         "symfony/serializer": "^6.3||^7.0",
@@ -42,7 +42,7 @@
         "teknoo/immutable": "^3.0.17",
         "teknoo/states": "^6.1.5",
         "teknoo/recipe": "^4.5.2",
-        "teknoo/east-foundation": "^7.3.5"
+        "teknoo/east-foundation": "^7.3.6"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"
