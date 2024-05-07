@@ -40,9 +40,9 @@
         "symfony/yaml": "^6.3||^7.0",
         "teknoo/bridge-phpdi-symfony": "^6.0.5",
         "teknoo/immutable": "^3.0.17",
-        "teknoo/states": "^6.2",
-        "teknoo/recipe": "^5.0.2",
-        "teknoo/east-foundation": "^7.6.4"
+        "teknoo/states": "^6.3",
+        "teknoo/recipe": "^5.1",
+        "teknoo/east-foundation": "^7.7"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"
