@@ -42,7 +42,7 @@
         "teknoo/immutable": "^3.0.18",
         "teknoo/states": "^6.4.1",
         "teknoo/recipe": "^5.1.2",
-        "teknoo/east-foundation": "^7.8.3"
+        "teknoo/east-foundation": "^7.9"
     },
     "require-dev": {
       "roave/security-advisories": "dev-latest"
